@@ -1,0 +1,6 @@
+{
+  "name": "kisaan solar",
+  "description": "Solar Tubewell & Pump Selection Calculator with cost estimations and Pakistan local market reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
